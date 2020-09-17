@@ -1,4 +1,4 @@
-Here I have tried to undettsand if there is a Realtionship-between-Cancer-Survival-months-with-Health-Care-Shortage. 
+Here I have tried to understand if there is a Relationship-between-Cancer-Survival-months-with-Health-Care-Shortage. 
 
 Demographic and Economic determinants of cancer survival in Medically Underserved Area
 
